@@ -1,3 +1,6 @@
+Original repository.   
+https://github.com/rayon-rs/rayon   
+
 # Rayon
 
 [![Rayon crate](https://img.shields.io/crates/v/rayon.svg)](https://crates.io/crates/rayon)
